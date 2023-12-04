@@ -1,4 +1,4 @@
-<htlm>
+<html>
   <body> 
   <?php
         $month = 5;
@@ -7,4 +7,4 @@
         echo "There are $days days in month $month of year $year";
   ?>
   </body>
-</htlm>
+</html>
